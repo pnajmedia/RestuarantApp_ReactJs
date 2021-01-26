@@ -1,4 +1,4 @@
-# RestuarantApp_ReactJs
+# Restuarant Booking App_ReactJs
   - This is  GIG build using React_js, json-server,JS, Bootstrap, HTML , CSS.
   - This all is build using above skills, so if you are beginner this must not be a rocket science, to get hold of.
   - Reach me for any queries : erpardeepkjanjua@gmail.com
