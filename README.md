@@ -4,6 +4,9 @@
   - Reach me for any queries : erpardeepkjanjua@gmail.com
   - Is Licence Free! Never mind, Feel free to use it for your school, college or office projects.
 
+# Demo Pages
+  - Link : Restuarant_booking_app_GUIDE.pdf 
+  
 # SiteMap
  1. Login page
     -  Enter Username, Password : <root, toor> // Kali linux folks might know this combination;
