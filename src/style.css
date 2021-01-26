@@ -1,0 +1,53 @@
+#bonBg {
+    background-image: url('/Users/pardeepkumar/Documents/BridgeProgrammeInfosys/bonstay_app_782806/src/images/bonstay_bg.jpg');
+    background-size: cover;
+    height: auto;
+    min-height: 700px;
+    width: 100%;
+  }
+
+  .logo{
+    background-image: url('/Users/pardeepkumar/Documents/BridgeProgrammeInfosys/bonstay_app_782806/src/images/logo.png');
+    background-size: cover;
+    height: 50px;
+    width: 60px;
+    border-radius: 10px 0 0 0;
+  }
+
+  .wrapper-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 200px;
+    overflow-y: hidden;
+    height: auto;
+    padding-bottom: 5em;
+}
+.box {
+    background: #0062ccba;
+    width: 50%;
+    padding: 20px;
+    border-radius: 12px;
+    margin-top: 4%;
+}
+.textDecorator{
+    color: #f3f1f0;
+    font-family: 'Gill Sans';
+    font-size: x-large;
+}
+.listing-image-container{
+  display: flex;
+  justify-content: space-between;
+}
+.listing-image{
+  width: 38%;
+  margin-top: 5px;
+  border: 2px inset #74b0b8;
+}
+.listingButtons{
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  width: 35%;
+}

@@ -1,0 +1,64 @@
+{
+    "reviews": [
+        {
+            "id": "2",
+            "review": "Good Accomodation",
+            "rating": "5",
+            "by": "Ashwin Gode"
+        },
+        {
+            "id": "3",
+            "review": "Staff treats guests as family",
+            "rating": "4",
+            "by": "Thalian"
+        },
+        {
+            "id": "4",
+            "review": "Best place to relax with family and friends",
+            "rating": "5",
+            "by": "Chigmu"
+        }
+    ],
+    "hotelDEtails": [
+        {
+            "id": "2",
+            "hotelName": "Siera Resorts",
+            "address": "pennag street Mylasia",
+            "phone": "+06 989898989"
+        },
+        {
+            "id": "3",
+            "hotelName": "Deluxe Resorts",
+            "address": "Lucem street Mylasia",
+            "phone": "+06 989898989"
+        },
+        {
+            "id": "4",
+            "hotelName": "Savious Resorts",
+            "address": "Vandilla street Mylasia",
+            "phone": "+06 989898989"
+        }
+    ],
+    "roomType": [
+        {
+            "id": "1",
+            "roomType": "Select Room Type"
+        },
+        {
+            "id": "2",
+            "roomType": "Deluxe Room"
+        },
+        {
+            "id": "3",
+            "roomType": "Premium Room"
+        },
+        {
+            "id": "4",
+            "roomType": "Royal Suite"
+        }
+    ],
+    "users":[
+        {"id":"1", "username":"root","password":"toor"},
+        {"id":"2", "username":"parry","password":"jayzee"}
+    ]
+}
