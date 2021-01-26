@@ -7,6 +7,9 @@
 # Demo Pages
   - Link : RestuarantApp_ReactJs/Restuarant_booking_app_GUIDE.pdf 
   
+# `Run Json Server` : To run this app the data is fed dynamcally ; use json-server else go the hardcode way refer ./db.json
+    $ npx json-server --watch -p 3333 db.json
+    $ npm start
 # SiteMap
  1. Login page
     -  Enter Username, Password : <root, toor> // Kali linux folks might know this combination;
@@ -70,7 +73,5 @@
 
     You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
     
-    ### `Run Json Server`
-    $ npx json-server --watch -p 3333 db.json
-    $ npm start
+  
     
